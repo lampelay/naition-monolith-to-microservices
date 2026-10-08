@@ -1,5 +1,7 @@
 # Домашнее задание. Выделение микросервисов из монолита
 
+## Условия
+
 **Проект:** [odoo (коммит 3e1d217...)](https://github.com/odoo/odoo/tree/3e1d21730493c50e176677572ed31faae03865a1)
 
 **Харнесс:**
@@ -11,11 +13,13 @@
 
 **Модель:** Qwen3.8 Flash
 
-**Затраты:**
+## Затраты
 
 - Токены: 6347105
 - Контекстное окно: 143036
 - Деньги: 22,11 ₽
 - Время: 2.5 часа
 
-Результат: [odoo/openspec/changes/decouple-sales-inventory-saga](./odoo/openspec/changes/decouple-sales-inventory-saga)
+## Результат
+
+OpenSpec change [decouple-sales-inventory-saga](./odoo/openspec/changes/decouple-sales-inventory-saga)
