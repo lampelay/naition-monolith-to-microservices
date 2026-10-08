@@ -14,5 +14,8 @@
 **Затраты:**
 
 - Токены: 6347105
+- Контекстное окно: 143036
 - Деньги: 22,11 ₽
 - Время: 2.5 часа
+
+Результат: [odoo/openspec/changes/decouple-sales-inventory-saga](./odoo/openspec/changes/decouple-sales-inventory-saga)
